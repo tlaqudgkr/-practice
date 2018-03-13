@@ -1,0 +1,22 @@
+a {
+    text-decoration: none;
+    color: orangered;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+form > ul {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+form > ul li {
+    margin: 5px 0;
+}
+
+input {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 5px;
+}
